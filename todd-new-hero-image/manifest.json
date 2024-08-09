@@ -1,0 +1,83 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/todd-new-hero-image/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "New Hero"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Image"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/todd-new-hero-image/f26f60da66ee4ab8196100d2fbd99d96/full/300,72/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 72,
+            "width": 300
+        }
+    ],
+    "items": [
+        {
+            "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/todd-new-hero-image/canvas/1",
+            "type": "Canvas",
+            "height": 572,
+            "width": 2377,
+            "label": {
+                "none": [
+                    "tbp7-4-08_01"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/todd-new-hero-image/f26f60da66ee4ab8196100d2fbd99d96/full/300,72/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 72,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/todd-new-hero-image/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/todd-new-hero-image/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://TheBremondPress.github.io/2008-tropy-static-iiif/todd-new-hero-image/canvas/1",
+                            "body": {
+                                "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/todd-new-hero-image/f26f60da66ee4ab8196100d2fbd99d96/full/2000,481/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 481,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/todd-new-hero-image/f26f60da66ee4ab8196100d2fbd99d96",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

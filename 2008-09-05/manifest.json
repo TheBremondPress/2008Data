@@ -1,0 +1,348 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://TheBremondPress.github.io/2008Data/2008-09-05/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "September 5, 2008"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "The Bremond Press"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2008"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Issue"
+                ]
+            }
+        }
+    ],
+    "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+    "thumbnail": [
+        {
+            "id": "https://TheBremondPress.github.io/2008Data/2008-09-05/b4740ca2e3b090f240e22b092aa484b8/full/168,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 168
+        }
+    ],
+    "items": [
+        {
+            "id": "https://TheBremondPress.github.io/2008Data/2008-09-05/canvas/1",
+            "type": "Canvas",
+            "height": 4300,
+            "width": 2400,
+            "label": {
+                "none": [
+                    "tbp9-5-08_01corrected"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://TheBremondPress.github.io/2008Data/2008-09-05/b4740ca2e3b090f240e22b092aa484b8/full/168,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 168
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://TheBremondPress.github.io/2008Data/2008-09-05/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://TheBremondPress.github.io/2008Data/2008-09-05/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://TheBremondPress.github.io/2008Data/2008-09-05/canvas/1",
+                            "body": {
+                                "id": "https://TheBremondPress.github.io/2008Data/2008-09-05/b4740ca2e3b090f240e22b092aa484b8/full/1116,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1116,
+                                "service": [
+                                    {
+                                        "id": "https://TheBremondPress.github.io/2008Data/2008-09-05/b4740ca2e3b090f240e22b092aa484b8",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://TheBremondPress.github.io/2008Data/2008-09-05/canvas/2",
+            "type": "Canvas",
+            "height": 4300,
+            "width": 2400,
+            "label": {
+                "none": [
+                    "tbp9-5-08_02"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://TheBremondPress.github.io/2008Data/2008-09-05/b30e467e8c86fc139600ea02cd2586cb/full/168,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 168
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://TheBremondPress.github.io/2008Data/2008-09-05/canvas/2/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://TheBremondPress.github.io/2008Data/2008-09-05/canvas/2/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://TheBremondPress.github.io/2008Data/2008-09-05/canvas/2",
+                            "body": {
+                                "id": "https://TheBremondPress.github.io/2008Data/2008-09-05/b30e467e8c86fc139600ea02cd2586cb/full/1116,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1116,
+                                "service": [
+                                    {
+                                        "id": "https://TheBremondPress.github.io/2008Data/2008-09-05/b30e467e8c86fc139600ea02cd2586cb",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://TheBremondPress.github.io/2008Data/2008-09-05/canvas/3",
+            "type": "Canvas",
+            "height": 4300,
+            "width": 2400,
+            "label": {
+                "none": [
+                    "tbp9-5-08_03"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://TheBremondPress.github.io/2008Data/2008-09-05/42a57ee7dbacff9a5ac12901d528b0e2/full/168,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 168
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://TheBremondPress.github.io/2008Data/2008-09-05/canvas/3/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://TheBremondPress.github.io/2008Data/2008-09-05/canvas/3/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://TheBremondPress.github.io/2008Data/2008-09-05/canvas/3",
+                            "body": {
+                                "id": "https://TheBremondPress.github.io/2008Data/2008-09-05/42a57ee7dbacff9a5ac12901d528b0e2/full/1116,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1116,
+                                "service": [
+                                    {
+                                        "id": "https://TheBremondPress.github.io/2008Data/2008-09-05/42a57ee7dbacff9a5ac12901d528b0e2",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://TheBremondPress.github.io/2008Data/2008-09-05/canvas/4",
+            "type": "Canvas",
+            "height": 4300,
+            "width": 2400,
+            "label": {
+                "none": [
+                    "tbp9-5-08_04"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://TheBremondPress.github.io/2008Data/2008-09-05/272bb11875cce10af93a027311579aa6/full/168,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 168
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://TheBremondPress.github.io/2008Data/2008-09-05/canvas/4/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://TheBremondPress.github.io/2008Data/2008-09-05/canvas/4/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://TheBremondPress.github.io/2008Data/2008-09-05/canvas/4",
+                            "body": {
+                                "id": "https://TheBremondPress.github.io/2008Data/2008-09-05/272bb11875cce10af93a027311579aa6/full/1116,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1116,
+                                "service": [
+                                    {
+                                        "id": "https://TheBremondPress.github.io/2008Data/2008-09-05/272bb11875cce10af93a027311579aa6",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://TheBremondPress.github.io/2008Data/2008-09-05/canvas/5",
+            "type": "Canvas",
+            "height": 4300,
+            "width": 2400,
+            "label": {
+                "none": [
+                    "tbp9-5-08_05"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://TheBremondPress.github.io/2008Data/2008-09-05/9a361bf0d10f3f2ece7a3b7f9484d1d7/full/168,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 168
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://TheBremondPress.github.io/2008Data/2008-09-05/canvas/5/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://TheBremondPress.github.io/2008Data/2008-09-05/canvas/5/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://TheBremondPress.github.io/2008Data/2008-09-05/canvas/5",
+                            "body": {
+                                "id": "https://TheBremondPress.github.io/2008Data/2008-09-05/9a361bf0d10f3f2ece7a3b7f9484d1d7/full/1116,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1116,
+                                "service": [
+                                    {
+                                        "id": "https://TheBremondPress.github.io/2008Data/2008-09-05/9a361bf0d10f3f2ece7a3b7f9484d1d7",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://TheBremondPress.github.io/2008Data/2008-09-05/canvas/6",
+            "type": "Canvas",
+            "height": 4300,
+            "width": 2400,
+            "label": {
+                "none": [
+                    "tbp9-5-08_06"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://TheBremondPress.github.io/2008Data/2008-09-05/469fe9de1b60e6e6bf8cf900a9496ddd/full/168,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 168
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://TheBremondPress.github.io/2008Data/2008-09-05/canvas/6/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://TheBremondPress.github.io/2008Data/2008-09-05/canvas/6/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://TheBremondPress.github.io/2008Data/2008-09-05/canvas/6",
+                            "body": {
+                                "id": "https://TheBremondPress.github.io/2008Data/2008-09-05/469fe9de1b60e6e6bf8cf900a9496ddd/full/1116,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1116,
+                                "service": [
+                                    {
+                                        "id": "https://TheBremondPress.github.io/2008Data/2008-09-05/469fe9de1b60e6e6bf8cf900a9496ddd",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

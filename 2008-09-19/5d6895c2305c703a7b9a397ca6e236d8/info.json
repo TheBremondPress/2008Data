@@ -1,0 +1,31 @@
+{
+  "@context": "http://iiif.io/api/image/3/context.json",
+  "id": "https://TheBremondPress.github.io/2008Data/2008-09-19/5d6895c2305c703a7b9a397ca6e236d8",
+  "type": "ImageService3",
+  "profile": "level0",
+  "protocol": "http://iiif.io/api/image",
+  "tiles": [
+    {
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8,
+        16
+      ],
+      "width": 256
+    }
+  ],
+  "width": 2400,
+  "height": 4300,
+  "sizes": [
+    {
+      "width": 168,
+      "height": 300
+    },
+    {
+      "width": 1116,
+      "height": 2000
+    }
+  ]
+}

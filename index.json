@@ -1,0 +1,183 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://TheBremondPress.github.io/2008Data/index.json",
+    "type": "Collection",
+    "label": {
+        "none": [
+            "TheBremondPress"
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://TheBremondPress.github.io/2008Data/2008-06-13/0a9a2127e03e9a873e768477178c06f4/full/167,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 167
+        }
+    ],
+    "items": [
+        {
+            "id": "https://TheBremondPress.github.io/2008Data/2008-06-13/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "2008, June 13  The Bremond Press"
+                ]
+            }
+        },
+        {
+            "id": "https://TheBremondPress.github.io/2008Data/2008-06-20/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "2008, June 20  The Bremond Press"
+                ]
+            }
+        },
+        {
+            "id": "https://TheBremondPress.github.io/2008Data/2008-06-27/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "2008, June 27  The Bremond Press"
+                ]
+            }
+        },
+        {
+            "id": "https://TheBremondPress.github.io/2008Data/2008-06-06/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "2008, June 6  The Bremond Press"
+                ]
+            }
+        },
+        {
+            "id": "https://TheBremondPress.github.io/2008Data/2008-05-16/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "2008, May 16 - The Bremond Press"
+                ]
+            }
+        },
+        {
+            "id": "https://TheBremondPress.github.io/2008Data/2008-05-02/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "2008, May 2 - The Bremond Press"
+                ]
+            }
+        },
+        {
+            "id": "https://TheBremondPress.github.io/2008Data/2008-05-23/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "2008, May 23 - The Bremond Press"
+                ]
+            }
+        },
+        {
+            "id": "https://TheBremondPress.github.io/2008Data/2008-05-30/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "2008, May 30 - The Bremond Press"
+                ]
+            }
+        },
+        {
+            "id": "https://TheBremondPress.github.io/2008Data/2008-05-09/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "2008, May 9 - The Bremond Press"
+                ]
+            }
+        },
+        {
+            "id": "https://TheBremondPress.github.io/2008Data/2008-04-18/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "April 18, 2008 - The Bremond Press"
+                ]
+            }
+        },
+        {
+            "id": "https://TheBremondPress.github.io/2008Data/2008-04-25/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "April 25, 2008 - The Bremond Press"
+                ]
+            }
+        },
+        {
+            "id": "https://TheBremondPress.github.io/2008Data/2008-08-1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "August 1, 2008 - The Bremond Press"
+                ]
+            }
+        },
+        {
+            "id": "https://TheBremondPress.github.io/2008Data/2008-07-18/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "July 18, 2008 - The Bremond Press"
+                ]
+            }
+        },
+        {
+            "id": "https://TheBremondPress.github.io/2008Data/2008-07-04/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "July 4, 2008 - The Bremond Press"
+                ]
+            }
+        },
+        {
+            "id": "https://TheBremondPress.github.io/2008Data/2008-09-12/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "September 12, 2008"
+                ]
+            }
+        },
+        {
+            "id": "https://TheBremondPress.github.io/2008Data/2008-09-19/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "September 19, 2008"
+                ]
+            }
+        },
+        {
+            "id": "https://TheBremondPress.github.io/2008Data/2008-09-26/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "September 26, 2008"
+                ]
+            }
+        },
+        {
+            "id": "https://TheBremondPress.github.io/2008Data/2008-09-05/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "September 5, 2008"
+                ]
+            }
+        }
+    ]
+}

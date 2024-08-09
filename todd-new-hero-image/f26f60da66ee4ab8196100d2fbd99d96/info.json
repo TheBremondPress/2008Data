@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/image/3/context.json",
+  "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/todd-new-hero-image/f26f60da66ee4ab8196100d2fbd99d96",
+  "type": "ImageService3",
+  "profile": "level0",
+  "protocol": "http://iiif.io/api/image",
+  "tiles": [
+    {
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ],
+      "width": 256
+    }
+  ],
+  "width": 2377,
+  "height": 572,
+  "sizes": [
+    {
+      "width": 300,
+      "height": 72
+    },
+    {
+      "width": 2000,
+      "height": 481
+    }
+  ]
+}

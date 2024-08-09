@@ -1,0 +1,83 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/new-hero-take-2/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "The Bremond Press Hero"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Image"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/new-hero-take-2/2c84e6dc50a1e677f5280c20fa552cdf/full/300,154/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 154,
+            "width": 300
+        }
+    ],
+    "items": [
+        {
+            "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/new-hero-take-2/canvas/1",
+            "type": "Canvas",
+            "height": 784,
+            "width": 1525,
+            "label": {
+                "none": [
+                    "Screenshot 2024-08-07 at 8.31.53 AM"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/new-hero-take-2/2c84e6dc50a1e677f5280c20fa552cdf/full/300,154/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 154,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/new-hero-take-2/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/new-hero-take-2/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://TheBremondPress.github.io/2008-tropy-static-iiif/new-hero-take-2/canvas/1",
+                            "body": {
+                                "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/new-hero-take-2/2c84e6dc50a1e677f5280c20fa552cdf/full/1525,784/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 784,
+                                "width": 1525,
+                                "service": [
+                                    {
+                                        "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/new-hero-take-2/2c84e6dc50a1e677f5280c20fa552cdf",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

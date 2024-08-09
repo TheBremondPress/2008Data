@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/image/3/context.json",
+  "id": "https://TheBremondPress.github.io/2008-tropy-static-iiif/new-hero-take-2/2c84e6dc50a1e677f5280c20fa552cdf",
+  "type": "ImageService3",
+  "profile": "level0",
+  "protocol": "http://iiif.io/api/image",
+  "tiles": [
+    {
+      "scaleFactors": [
+        1,
+        2,
+        4
+      ],
+      "width": 256
+    }
+  ],
+  "width": 1525,
+  "height": 784,
+  "sizes": [
+    {
+      "width": 300,
+      "height": 154
+    },
+    {
+      "width": 1525,
+      "height": 784
+    }
+  ]
+}
